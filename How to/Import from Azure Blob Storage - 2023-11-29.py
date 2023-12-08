@@ -22,7 +22,11 @@
 # MAGIC
 # MAGIC See https://docs.databricks.com/en/storage/azure-storage.html
 # MAGIC
-# MAGIC ![Azure storage Access keys](/img/azure_storage_access_keys.png)
+# MAGIC ![Associate-badge](https://github.com/BaseConsulting/databricks-camp/blob/main/How%20to/img/azure_storage_access_keys.png)
+
+# COMMAND ----------
+
+# MAGIC %fs ls '/databricks-datasets'
 
 # COMMAND ----------
 
